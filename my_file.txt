@@ -1,0 +1,5 @@
+This is my vi my_file.txt
+for my final homework assignment of comp141
+this is question/part five of the assignmnet btw
+vi
+
